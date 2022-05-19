@@ -9,7 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("this is contained in my second commit")
-
-        this is your fourth commit error created successfully
+        today is 19 may
     }
 }
