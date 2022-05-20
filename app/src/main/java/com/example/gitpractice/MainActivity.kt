@@ -9,7 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("this is contained in my second commit")
-        today is 1 may
         println("this is local change")
         println("this is local change stash from ui of android studio")
 
@@ -17,5 +16,6 @@ class MainActivity : AppCompatActivity() {
         println("change 11")
         println("change 22")
         println("example branch from ui of android studio")
+        println("this change is from other friends ")
     }
 }
